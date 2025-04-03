@@ -4,7 +4,8 @@
 }
 
 body {
-    background-color: grey;
+    background-color: white;
+    height: 1000px;
 }
 
 nav {
@@ -46,7 +47,48 @@ ul li a:hover {
     color: blue;
 }
 
+.footer {
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+ }
+
+.footer-box {
+    display: flex;
+    color: white;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.left {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.center {
+    margin-left: 700px;
+    margin-top: 70px;
+}
+
+.right {
+    margin-left: 700px;
+    margin-top: 25px;
+}
+
 img {
     width: 100%;
     height: 800px;
+}
+
+h1 {
+   margin-left: 45%;
+}
+
+li {
+    font-size: 40px;
+    padding-left: 30px;
 }
