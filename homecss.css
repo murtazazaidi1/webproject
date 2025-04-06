@@ -91,7 +91,7 @@ img {
     
 }
 
-h1, h2, h3, h4 {
+h1 {
     padding-left: 30px;
     padding-top: 30px;
 }
@@ -99,4 +99,5 @@ h1, h2, h3, h4 {
 p {
     padding-left: 30px;
     padding-top: 5px;
+    font-size: 20px;
 }
