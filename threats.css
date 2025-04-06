@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(221, 218, 218);
     height: 980px;
 }
 
@@ -69,6 +69,7 @@ p {
     padding-left: 60px;
     padding-top: 10px;
     font-size: 20px;
+    padding-bottom: 10px;
 }
 
 /* Footer */

@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: white;
+    background-color: lightgray;
     height: 100%;
 }
 
@@ -86,7 +86,7 @@ img {
 }
 
 h1 {
-   margin-left: 45%;
+   margin-left: 43%;
    font-size: 50px;
 }
 
